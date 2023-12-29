@@ -1,7 +1,7 @@
 
-# tiny shakespeare
+# tiny privatedata
 
-Tiny shakespeare, of the good old char-rnn fame :)
+Tiny privatedata, of the good old char-rnn fame :)
 
 After running `prepare.py`:
 
